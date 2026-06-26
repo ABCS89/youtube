@@ -4,7 +4,7 @@
 
 ---
 
-## ⚠️ PRODUCTION NOTES
+### ⚠️ PRODUCTION NOTES
 - Pause 1 second at every [PAUSE]
 - Slow down at every [SLOW]
 - Music cue suggestions are in brackets
@@ -12,7 +12,7 @@
 
 ---
 
-## 🎬 COLD OPEN — HOOK
+### 🎬 COLD OPEN — HOOK - 90 speed - style exaggeration 10%
 *[MUSIC: low, tense drone — no melody, just atmosphere]*
 *(Black screen, then slow fade to aerial shot of São Paulo at night)*
 
@@ -24,7 +24,7 @@ But beneath that surface, something terrible was happening.
 
 Young women were disappearing.
 
-[PAUSE]
+### [PAUSE] - 90 - speed - style exaggeration - 10%
 
 Not kidnapped. Not taken by force. They were leaving willingly — walking away with a stranger who promised them something they couldn't resist.
 
@@ -32,7 +32,9 @@ A chance to become a model.
 
 [PAUSE]
 
-[SLOW] They never came back.
+### [SLOW] - 80 speed - style exaggeration 75%
+
+They never came back.
 
 *(Hard cut to black)*
 
@@ -46,8 +48,10 @@ A chance to become a model.
 
 São Paulo's Parque do Estado is one of the largest urban parks in the world. Over four square kilometers of dense Atlantic Forest, right in the middle of one of the most populated cities on Earth.
 
-To most residents, it's a place of peace. Families on weekends. Children flying kites. Couples on benches.
+#### - 80 speed - style exaggeration 75%
+ To most residents, it's a place of peace. Families on weekends. Children flying kites. Couples on benches.
 
+#### - 80 speed - style exaggeration 0%
 But the park has another side — dense forest, remote trails, and areas so isolated that you could be completely invisible to the rest of the city.
 
 That's exactly what Francisco de Assis Pereira was looking for.
