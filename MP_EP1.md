@@ -56,7 +56,8 @@ But the park has another side — dense forest, remote trails, and areas so isol
 
 That's exactly what Francisco de Assis Pereira was looking for.
 
-[PAUSE]
+[PAUSE] 
+#### - 90 speed - style exaggeration 0%
 
 Francisco was born on November 29, 1967, in São José do Rio Preto, a city in the interior of São Paulo state. He grew up in a troubled household. Reports from people who knew him describe a childhood marked by trauma — possible abuse, exposure to violence, a disconnect from normal emotional development that would only deepen over time.
 
