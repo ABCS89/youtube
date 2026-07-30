@@ -2,6 +2,8 @@
 ## "The Park Maniac: Brazil's Most Chilling Serial Killer"
 **Estimated narration time: 20–30 minutes | ~4,500 words**
 
+# Eleven labs voice ID wBXNqKUATyqu0RtYt25i
+
 ---
 
 ### ⚠️ PRODUCTION NOTES
